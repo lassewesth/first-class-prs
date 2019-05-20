@@ -6,7 +6,7 @@
 
     <groupId>lassewesth</groupId>
     <artifactId>first-class-prs</artifactId>
-    <version>6.2-SNAPSHOT</version>
+    <version>6.7-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
