@@ -19,3 +19,8 @@
 
 4. Yet another PR, now I have attached `pull-request-status` to a VCS root...
    * I mean, this is terrible duplication but bloody hell, the thing doesn't work?!
+
+5. Aha! Got it working by changing to a 'regular' build configuration type!
+
+6. Maybe now I won't no longer need the duplicate VCS
+   * Back to trigger-on-snapshot, let's see...
