@@ -16,3 +16,5 @@
 
 3. Now hardcoded branch in VCS because `pull-request-status` is not triggering
    * This will need fixing when we get to `v6.8` or `v7.0`
+
+4. Another pull request, now changed `pull-request-status` from "aggregate" to "regular"
