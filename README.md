@@ -21,7 +21,8 @@
    * I mean, this is terrible duplication but bloody hell, the thing doesn't work?!
 
 5. Ok it is a mess so I have deleted `pull-request-status`.
-   * Ideal world (what I will build now) is `pull-request-status` as aggregate type, trigger-on-snapshot-deps, with PR and notifier build features
+   * Ideal world (what I will build now) is `pull-request-status` as composite type, trigger-on-snapshot-deps, with PR and notifier build features
    * Oh and I'll go back to branch-as-property
    
 6. OK branch-as-property, let's just verify that works with regular commits
+   * Created `pull-request-status`, type composite, regular trigger-on-snapshot, let's test
