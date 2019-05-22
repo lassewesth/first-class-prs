@@ -1,3 +1,3 @@
 # first-class-prs
 
-Alrighty then! So here is a PR, wonder what triggers...
+Let's start with just a commit.
