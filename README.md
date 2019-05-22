@@ -26,3 +26,5 @@
    
 6. OK branch-as-property, let's just verify that works with regular commits
    * Created `pull-request-status`, type composite, regular trigger-on-snapshot, let's test
+
+7. That didn't work. Now made `skeleton-builds` depend directly on `pack`, trying again...
