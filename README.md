@@ -24,3 +24,4 @@
    * Ideal world (what I will build now) is `pull-request-status` as aggregate type, trigger-on-snapshot-deps, with PR and notifier build features
    * Oh and I'll go back to branch-as-property
    
+6. OK branch-as-property, let's just verify that works with regular commits
