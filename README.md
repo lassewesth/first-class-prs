@@ -28,3 +28,4 @@
    * Created `pull-request-status`, type composite, regular trigger-on-snapshot, let's test
 
 7. That didn't work. Now made `skeleton-builds` depend directly on `pack`, trying again...
+   * No luck, now `pull-request-status` points directly to `pack`
