@@ -15,3 +15,4 @@
      * No notification from `pull-request-status`, or at least nothing broke
 
 3. Now hardcoded branch in VCS because `pull-request-status` is not triggering
+   * This will need fixing when we get to `v6.8` or `v7.0`
