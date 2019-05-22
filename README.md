@@ -16,3 +16,6 @@
 
 3. Now hardcoded branch in VCS because `pull-request-status` is not triggering
    * This will need fixing when we get to `v6.8` or `v7.0`
+
+4. Yet another PR, now I have attached `pull-request-status` to a VCS root...
+   * I mean, this is terrible duplication but bloody hell, the thing doesn't work?!
