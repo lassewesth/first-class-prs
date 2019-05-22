@@ -19,3 +19,8 @@
 
 4. Yet another PR, now I have attached `pull-request-status` to a VCS root...
    * I mean, this is terrible duplication but bloody hell, the thing doesn't work?!
+
+5. Ok it is a mess so I have deleted `pull-request-status`.
+   * Ideal world (what I will build now) is `pull-request-status` as aggregate type, trigger-on-snapshot-deps, with PR and notifier build features
+   * Oh and I'll go back to branch-as-property
+   
