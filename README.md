@@ -30,3 +30,6 @@
 7. That didn't work. Now made `skeleton-builds` depend directly on `pack`, trying again...
    * No luck, now `pull-request-status` points directly to `pack`
    * Wait, remove `pack`, try again, to double check
+     * Det virkede!
+
+8. Nu igen en PR, lad os se...
