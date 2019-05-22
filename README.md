@@ -13,3 +13,5 @@
      * And therefore `skeleton -> ...`
      * But I guess that's alright, queue will de-dup it, not a practical problem
      * No notification from `pull-request-status`, or at least nothing broke
+
+3. Now hardcoded branch in VCS because `pull-request-status` is not triggering
